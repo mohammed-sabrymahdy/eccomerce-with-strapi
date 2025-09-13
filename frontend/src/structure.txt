@@ -1,0 +1,24 @@
+my-app
+├─ node_modules
+├─ public
+├─ src
+│  ├─ components
+│  │  ├─ Footer
+│  │  ├─ Header
+│  │  │  ├─ Header1.jsx
+│  │  │  ├─ Header2.jsx
+│  │  │  └─ Header3.jsx
+│  │  ├─ Hero
+│  │  └─ Main
+│  ├─ App.css
+│  ├─ App.jsx
+│  ├─ index.css
+│  ├─ main.jsx
+│  └─ theme.jsx
+├─ .gitignore
+├─ eslint.config.js
+├─ index.html
+├─ package.json
+├─ pnpm-lock.yaml
+├─ README.md
+└─ vite.config.js

@@ -6,7 +6,8 @@ The project includes product management, and a modern responsive UI.
 ## 🚀 Demo
 🔗 [Live Website](https://eccomerce-d66c7.web.app/)
 - ⏳ The hosting is **temporary** and may expire, requiring manual renewal or redeployment from time to time.  
-- 🐢 **Note:** The website might load **slowly** sometimes due to **free hosting limitations**.  
+- 🐢 **Note:** The website might load **slowly** sometimes due to **free hosting limitations**.
+- 
 ## 📸 Screenshots
 ![Screenshot 1](https://drive.google.com/uc?export=view&id=1QJkLDedVg0R1OmGy2bevgl2LgPwewz43)  
 ![Screenshot 2](https://drive.google.com/uc?export=view&id=1KUIZc5Bm2nk6zfpmsyWgyiF04GP2yXyv)  
